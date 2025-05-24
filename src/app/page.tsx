@@ -14,7 +14,11 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
+<<<<<<< HEAD
             We Are Developers Team Here For Assistance, You Can Contact Us Feel Free Hahaha
+=======
+            We Are Developers Team Here For Assistance, You Can Contact Us Feel Free Hahaha, Ok This is Final Comment Hurray :)
+>>>>>>> 699a31f (Your descriptive commit message including .next folder)
             {" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
