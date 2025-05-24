@@ -14,11 +14,6 @@
 /coverage
 
 # next.js
-<<<<<<< HEAD
-/.next/
-=======
-# /.next/
->>>>>>> 699a31f (Your descriptive commit message including .next folder)
 /out/
 
 # production
