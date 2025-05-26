@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-           Hey There, This is Testing Project For Testing Ci Cd Pipeline Feature, do you ready to test it with auto node app restarting and auto code updated..
+           Today Raining is Expected so Bring The Umbrella With You...
           </li>
           <li>Save and see your changes instantly. without reuploading the code from cpanel again and again..</li>
         </ol>
