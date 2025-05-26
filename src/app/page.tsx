@@ -15,7 +15,7 @@ export default function Home() {
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
 <<<<<<< HEAD
-            We Are Developers Team Here For Assistance, You Can Contact Us Feel Free Hahaha
+            We Are Developers Team Here For Assistance, You Can Contact Us Feel Free Hahaha This is Very Dangerous Code We Are Ready To Provide Query Parameters FinalizationRegistry[Symbol]..
 =======
             We Are Developers Team Here For Assistance, You Can Contact Us Feel Free Hahaha, Ok This is Final Comment Hurray :)
 >>>>>>> 699a31f (Your descriptive commit message including .next folder)
