@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            We Are Developers Team Here For Assistance, You Can Contact Us Feel Free Hahaha This is Very Dangerous Code We Are Ready To Provide Query Parameters 
+           Today is Monday, 20th November 2023. This is a simple Next.js app with Tailwind CSS and Vercel integration.
           </li>
           <li>Save and see your changes instantly. without reuploading the code from cpanel again and again..</li>
         </ol>
