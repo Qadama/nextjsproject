@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-           Today Raining is Expected so Bring The Umbrella With You...
+           Today is 27th October 2025, The Sunny Afternoon With High Temp
           </li>
           <li>Save and see your changes instantly. without reuploading the code from cpanel again and again..</li>
         </ol>
